@@ -23,12 +23,9 @@ This repository contains various ITK batch utility programs for Siemens Teamcent
 Below are screenshots showing the results of running these utilities, extracted from the documentation:
 
 ### Login & Authentication
-![Login Result](image/login_result.png)
-![UI Context](image/teamcenter_ui.png)
 ![Login Exec 1](image/image_p2_1.png)
 
 ### Bulk Creation and Item Operations
-![Bulk Create Result](image/bulk_create_result.png)
 ![Dataset Creation](image/image_p4_1.png)
 ![Creation Details](image/image_p6_1.png)
 
