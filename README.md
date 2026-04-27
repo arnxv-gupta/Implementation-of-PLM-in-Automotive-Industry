@@ -2,40 +2,57 @@
 
 This repository contains various ITK batch utility programs for Siemens Teamcenter. The programs demonstrate different operations using ITK in C.
 
-## Available Programs
+## Available Programs & Results
 
-- **Bulk_file_import.c**
-- **Bulk_item_create_through_csv.c**
-- **Change_Ownership.c**
-- **Create_dataset_and_attach_to_item.c**
-- **Create_form_and_attach_to_BO.c**
-- **Find_objects_acc_criteria.c**
-- **Find_objects_acc_criteria_and_export_its_named_ref_datasets.c**
-- **Import_dataset.c**
-- **Item_create_in_home_folder.c**
-- **Login.c**
-- **Print_BOM_line_item_id_Multi_level_childs.c**
-- **Query_execute.c**
-- **dataset_export.c**
+Below are the utility programs along with screenshots showing the results of running them, extracted from the documentation:
 
-## Program Results & Screenshots
+### 1. Login.c
+![Result 1](image/image_p0_1.png)
+![Result 2](image/image_p2_1.png)
 
-Below are screenshots showing the results of running these utilities, extracted from the documentation:
+### 2. Item_create_in_home_folder.c
+![Result 1](image/image_p2_2.png)
+![Result 2](image/image_p2_3.png)
 
-### Login & Authentication
-![Login Exec 1](image/image_p2_1.png)
+### 3. Create_dataset_and_attach_to_item.c
+![Result 1](image/image_p4_1.png)
+![Result 2](image/image_p4_2.png)
 
-### Bulk Creation and Item Operations
-![Dataset Creation](image/image_p4_1.png)
-![Creation Details](image/image_p6_1.png)
+### 4. Import_dataset.c
+![Result 1](image/image_p6_1.png)
+![Result 2](image/image_p6_2.png)
 
-### Queries and Searching
-![Query execution](image/image_p8_2.png)
-![Search Criteria](image/image_p10_1.png)
+### 5. Find_objects_acc_criteria.c
+![Result 1](image/image_p8_1.png)
+![Result 2](image/image_p8_2.png)
 
-### Export and BOM Operations
-![Export Results](image/image_p13_1.png)
-![BOM Print Results](image/image_p17_1.png)
-![Ownership Change](image/image_p19_1.png)
+### 6. Find_objects_acc_criteria_and_export_its_named_ref_datasets.c
+![Result 1](image/image_p8_3.png)
+![Result 2](image/image_p10_1.png)
 
-*(Note: The `images` folder is ignored by git to keep the repository clean. It can be re-generated from the PDF documentation).*
+### 7. dataset_export.c
+![Result 1](image/image_p10_2.png)
+![Result 2](image/image_p11_1.png)
+
+### 8. Bulk_item_create_through_csv.c
+![Result 1](image/image_p13_1.png)
+![Result 2](image/image_p13_2.png)
+
+### 9. Bulk_file_import.c
+![Result 1](image/image_p15_1.png)
+
+### 10. Print_BOM_line_item_id_Multi_level_childs.c
+![Result 1](image/image_p17_1.png)
+
+### 11. Create_form_and_attach_to_BO.c
+![Result 1](image/image_p18_1.png)
+![Result 2](image/image_p19_1.png)
+
+### 12. Change_Ownership.c
+![Result 1](image/image_p22_1.png)
+![Result 2](image/image_p23_1.png)
+
+### 13. Query_execute.c
+![Result 1](image/image_p25_1.png)
+
+*(Note: The `image` folder contains the result pictures extracted from the documentation PDF).*
