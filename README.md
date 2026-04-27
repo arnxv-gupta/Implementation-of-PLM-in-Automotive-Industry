@@ -23,22 +23,22 @@ This repository contains various ITK batch utility programs for Siemens Teamcent
 Below are screenshots showing the results of running these utilities, extracted from the documentation:
 
 ### Login & Authentication
-![Login Result](images/login_result.png)
-![UI Context](images/teamcenter_ui.png)
-![Login Exec 1](images/image_p2_1.png)
+![Login Result](image/login_result.png)
+![UI Context](image/teamcenter_ui.png)
+![Login Exec 1](image/image_p2_1.png)
 
 ### Bulk Creation and Item Operations
-![Bulk Create Result](images/bulk_create_result.png)
-![Dataset Creation](images/image_p4_1.png)
-![Creation Details](images/image_p6_1.png)
+![Bulk Create Result](image/bulk_create_result.png)
+![Dataset Creation](image/image_p4_1.png)
+![Creation Details](image/image_p6_1.png)
 
 ### Queries and Searching
-![Query execution](images/image_p8_2.png)
-![Search Criteria](images/image_p10_1.png)
+![Query execution](image/image_p8_2.png)
+![Search Criteria](image/image_p10_1.png)
 
 ### Export and BOM Operations
-![Export Results](images/image_p13_1.png)
-![BOM Print Results](images/image_p17_1.png)
-![Ownership Change](images/image_p19_1.png)
+![Export Results](image/image_p13_1.png)
+![BOM Print Results](image/image_p17_1.png)
+![Ownership Change](image/image_p19_1.png)
 
 *(Note: The `images` folder is ignored by git to keep the repository clean. It can be re-generated from the PDF documentation).*
